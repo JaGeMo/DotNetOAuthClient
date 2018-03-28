@@ -1,0 +1,10 @@
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\bin\Debug\netcoreapp2.0\RestClientOA.deps.json
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\bin\Debug\netcoreapp2.0\RestClientOA.runtimeconfig.json
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\bin\Debug\netcoreapp2.0\RestClientOA.runtimeconfig.dev.json
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\bin\Debug\netcoreapp2.0\RestClientOA.dll
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\bin\Debug\netcoreapp2.0\RestClientOA.pdb
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\obj\Debug\netcoreapp2.0\RestClientOA.csproj.CoreCompileInputs.cache
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\obj\Debug\netcoreapp2.0\RestClientOA.AssemblyInfoInputs.cache
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\obj\Debug\netcoreapp2.0\RestClientOA.AssemblyInfo.cs
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\obj\Debug\netcoreapp2.0\RestClientOA.dll
+C:\tmp\Sicherungen\CodeTests\RestClientOA\RestClientOA\obj\Debug\netcoreapp2.0\RestClientOA.pdb
